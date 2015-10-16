@@ -1,0 +1,7 @@
+c:\users\mohameds\documents\visual studio 2010\Projects\TheBettingParlor\TheBettingParlor\obj\x86\Debug\TheBettingParlor.Form1.resources
+c:\users\mohameds\documents\visual studio 2010\Projects\TheBettingParlor\TheBettingParlor\obj\x86\Debug\TheBettingParlor.Properties.Resources.resources
+c:\users\mohameds\documents\visual studio 2010\Projects\TheBettingParlor\TheBettingParlor\obj\x86\Debug\TheBettingParlor.csproj.GenerateResource.Cache
+c:\users\mohameds\documents\visual studio 2010\Projects\TheBettingParlor\TheBettingParlor\bin\Debug\TheBettingParlor.exe
+c:\users\mohameds\documents\visual studio 2010\Projects\TheBettingParlor\TheBettingParlor\bin\Debug\TheBettingParlor.pdb
+c:\users\mohameds\documents\visual studio 2010\Projects\TheBettingParlor\TheBettingParlor\obj\x86\Debug\TheBettingParlor.exe
+c:\users\mohameds\documents\visual studio 2010\Projects\TheBettingParlor\TheBettingParlor\obj\x86\Debug\TheBettingParlor.pdb
